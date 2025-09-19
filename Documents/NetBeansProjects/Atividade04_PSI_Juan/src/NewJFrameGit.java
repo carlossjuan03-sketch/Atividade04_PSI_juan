@@ -32,8 +32,9 @@ public class NewJFrameGit extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jTextArea1.setColumns(20);
+        jTextArea1.setForeground(new java.awt.Color(255, 255, 0));
         jTextArea1.setRows(5);
-        jTextArea1.setText("Git hub juan\n\n");
+        jTextArea1.setText("Git hub juan\n\nCarrlossjuan03");
         jScrollPane1.setViewportView(jTextArea1);
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
